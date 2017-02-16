@@ -1,0 +1,29 @@
+{
+  "name": "cheatsheet",
+  "version": "0.0.0",
+  "description": "## TOC",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "mocha --watch --compilers js:babel-register **/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albburtsev/cheatsheet.git"
+  },
+  "author": "Alexander Burtsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albburtsev/cheatsheet/issues"
+  },
+  "homepage": "https://github.com/albburtsev/cheatsheet#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.1.8",
+    "mocha": "^3.2.0",
+    "should": "^11.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}

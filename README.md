@@ -1,5 +1,9 @@
 # Cheat sheet
 
+## TOC
+
+ * [Dynamic programming](dp/dp.md)
+
 ## Why?
 
 Unfortunately, my memory isn't perfect and very selective. If I don't use something for a long time, I lose the ability to remember and take advantage of it.
