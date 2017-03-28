@@ -2,7 +2,7 @@
 
 ## TOC
 
- * [Dynamic programming](dp/dp.md)
+ * [Dynamic programming](dp/)
 
 ## Why?
 
