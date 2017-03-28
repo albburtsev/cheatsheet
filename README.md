@@ -3,6 +3,7 @@
 ## TOC
 
  * [Dynamic programming](dp/)
+ * [Spies, stubs and mocks](tests/)
 
 ## Why?
 
